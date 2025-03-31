@@ -2,7 +2,7 @@
 
 This repository tracks my **learning progress in frontend development**, covering **HTML, CSS, and JavaScript** with hands-on projects.  
 
-## **📆 Project Updates**  
+## **📆 Project Uploads**  
 
 📄 **Bio Data Page** (30-03-2025, 07:51 PM)  
 - Created a simple **HTML biodata page**  
