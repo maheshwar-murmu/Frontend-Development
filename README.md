@@ -8,8 +8,7 @@ This repository tracks my **learning progress in frontend development**, coverin
 - Created a simple **HTML biodata page**  
 - Used **basic text formatting tags** like `<h1>`, `<p>`, `<strong>`, and `<u>`  
 
-### 📜 CV Page *(30-03-2025, 08:27 PM)*  
-- Designed a **two-column CV layout** using **HTML tables**  
+### 📜 CV Page *(30-03-2025, 08:27 PM)*    
 - Included **profile section, education details, and technical skills**  
 - Added **contact info and soft skills**  
 
